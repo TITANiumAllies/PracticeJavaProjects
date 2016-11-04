@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\robo\Documents\PracticeJavaProjects\.metadata\.plugins\org.eclipse.jdt.core
+2470014157.index
